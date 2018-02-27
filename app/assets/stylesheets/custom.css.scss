@@ -22,9 +22,8 @@ $navbar-default-bg: black;
 }
 
 .jumbotron {
-	background-image: asset-url("nate.jpg");
-	background-size: cover;
 	height: 550px;
+  background-color: blue;
 }
 
 .jumbotron h1 {
